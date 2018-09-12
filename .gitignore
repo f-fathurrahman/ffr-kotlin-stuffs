@@ -1,5 +1,6 @@
 BROKEN_*
 TEMP_*
+META-INF
 
 *.swp
 *~
